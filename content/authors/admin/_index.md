@@ -13,7 +13,6 @@ interests:
   - Demography
   - Migration
   - Climate Change
-  - Something else
 social:
   - icon: envelope
     icon_pack: fas
