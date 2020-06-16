@@ -7,8 +7,7 @@ authors:
   - admin
 title: Mathew E. Hauer
 role: Assistant Professor of Sociology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include demography, migration, and climate change.
 interests:
   - Demography
   - Migration
