@@ -1,7 +1,7 @@
 ---
 title: Mathew E. Hauer
 role: Assistant Professor of Sociology
-avatar_filename: headshot.png
+avatar_filename: avatar.jpg
 organizations:
   - name: Florida State University
     url: ""
@@ -13,6 +13,7 @@ interests:
   - Demography
   - Migration
   - Climate Change
+  - Something else
 social:
   - icon: envelope
     icon_pack: fas
