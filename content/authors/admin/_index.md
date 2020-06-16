@@ -10,9 +10,9 @@ role: Assistant Professor of Sociology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Demography
+  - Migration
+  - Climate Change
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,7 +42,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Dr. Mathew Hauer is an Assistant Professor in the Department of Sociology and an Affiliate of the Center for Demography and Population Health at Florida State University. He obtained his Ph.D. in Geography at the University of Georgia. Prior to arriving at FSU, Dr. Hauer spent nearly a decade directing the Applied Demography Program at the University of Georgia.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I use demographic techniques and sociological theory to explore the impacts climate change is having and will have on the three demographic processes: fertility, mortality, and migration.
