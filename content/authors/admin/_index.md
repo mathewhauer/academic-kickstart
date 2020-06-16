@@ -1,12 +1,13 @@
 ---
+title: Mathew E. Hauer
+role: Assistant Professor of Sociology
+avatar_filename: headshot.png
 organizations:
   - name: Florida State University
     url: ""
 superuser: true
 authors:
   - admin
-title: Mathew E. Hauer
-role: Assistant Professor of Sociology
 bio: My research interests include demography, migration, and climate change.
 interests:
   - Demography
