@@ -37,7 +37,7 @@ education:
     - course: BS Sociology
       institution: Florida State University
       year: 2007
-email: ""
+email: mehauer@fsu.edu
 user_groups:
   - Researchers
   - Visitors
