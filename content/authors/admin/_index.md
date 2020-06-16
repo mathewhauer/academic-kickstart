@@ -19,13 +19,13 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/thehauer
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=SI0ST5YAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mathewhauer
 education:
   courses:
     - course: PhD in Artificial Intelligence
