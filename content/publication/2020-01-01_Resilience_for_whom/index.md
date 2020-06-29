@@ -1,6 +1,6 @@
 +++
-title = "Resilience for whom\? Demographic change and the redevelopment of the built environment in Puerto Rico"
-date = "2020-01-01"
+title = "Resilience for whom? Demographic change and the redevelopment of the built environment in Puerto Rico"
+date = "2020-06-01"
 authors = ["Jesse M. Keenan", "Mathew E. Hauer"]
 publication_types = ["2"]
 publication = "Environmental Research Letters, (15), 7, _pp. 074028_, https://doi.org/10.1088/1748-9326/ab92c2"
@@ -11,9 +11,9 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "NA"
+url_pdf = "https://doi.org/10.1088/1748-9326/ab92c2"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/mathewhauer/puerto-rico-projections"
 url_dataset = ""
 url_project = ""
 url_slides = ""
