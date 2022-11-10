@@ -1,5 +1,5 @@
 +++
-title = "Migration towards Bangladesh coastlines projected to increase with sea-level rise through 2100"
+title = "More than a nuisance: measuring how sea level rise delays commuters in Miami, FL"
 date = "2021-01-01"
 authors = ["M Hauer", "V Mueller", "G Sheriff", "Q Zhong"]
 publication_types = ["2"]
