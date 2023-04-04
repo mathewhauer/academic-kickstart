@@ -1,7 +1,7 @@
 +++
 title = "Assessing population exposure to coastal flooding due to sea level rise"
 date = "2022-01-01"
-authors = [M Hauer", "D Hardy", "S Kulp", "V Mueller", "D Wrathall", "P Clark"]
+authors = ["M Hauer", "D Hardy", "S Kulp", "V Mueller", "D Wrathall", "P Clark"]
 publication_types = ["2"]
 publication = "Nature Communications, 12(1), 437-448, https://doi.org/10.1038/s41467-021-27260-1"
 publication_short = "Population Research and Policy Review, (41), 437-448, 10.1038/s41467-021-27260-1"
