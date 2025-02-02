@@ -42,7 +42,9 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Mathew E. Hauer is the Charles B. Nam Associate Professor of Sociology at Florida State University and Assistant Director of the Center for Demography and Population Health. His research lies at the intersection of demography, migration, population projections, and climate change, with particular expertise in modeling future population dynamics under climate stress.
+Dr. Mathew E. Hauer is the Charles B. Nam Associate Professor of Sociology at Florida State University, Assistant Director of the Center for Demography and Population Health, and the Head of AI Agent Development at [Aaru, a startup focused on artificial intelligence and simulation](https://aaru.com/). 
+
+His research lies at the intersection of demography, migration, population projections, and climate change, with particular expertise in modeling future population dynamics under climate stress.
 
 His work on climate migration and population vulnerability has earned numerous prestigious accolades, including the 2024 [Early Achievement Award](https://www.populationassociation.org/about/annual-awards/early-achievement-award#:~:text=The%20Early%20Achievement%20award%20recognizes,scholars%20who%20received%20their%20Ph.) from the Population Association of America and the 2023 [Cozzarelli Prize](http://www.nasonline.org/news-and-multimedia/news/pnas-cozzarelli-2022.html) from the National Academies of Sciences, Engineering, and Medicine. He is a two-time recipient of the [E. Walter Terrie Award](https://www.sda-demography.org/Terrie-Award) for excellence in applied demography, and his dissertation on sea-level rise and human migration has accumulated over 1,400 citations since 2016.
 
