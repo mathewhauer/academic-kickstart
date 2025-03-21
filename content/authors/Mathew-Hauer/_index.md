@@ -42,7 +42,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Mathew E. Hauer is the Charles B. Nam Associate Professor of Sociology at Florida State University, Assistant Director of the Center for Demography and Population Health, and the Head of AI Agent Development at [Aaru, a startup focused on artificial intelligence and simulation](https://aaru.com/). 
+Dr. Mathew E. Hauer is the Charles B. Nam Associate Professor of Sociology at Florida State University, Assistant Director of the Center for Demography and Population Health, and the Head of AI Agent Development at [Aaru, a company focused on artificial intelligence and simulation](https://aaru.com/). 
 
 His research lies at the intersection of demography, migration, population projections, and climate change, with particular expertise in modeling future population dynamics under climate stress.
 
