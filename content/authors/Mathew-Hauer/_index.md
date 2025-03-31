@@ -1,9 +1,9 @@
 ---
 title: Mathew E. Hauer
-role: Assistant Professor of Sociology
+role: Associate Professor of Sociology; Head of Agent Developt
 avatar_filename: avatar.png
 organizations:
-  - name: Florida State University
+  - name: Florida State University; Aaru
     url: ""
 superuser: true
 authors:
